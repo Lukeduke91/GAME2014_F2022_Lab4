@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerBehaviour">
+    <Position X="1.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAYECAAAAqIAAAQABAAAAAAAEAAAAwAAAAAAAAAASAA=</HashCode>
+      <FileName>Assets\[Scripts]\PlayerBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletBehaviour">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAKAAIAAAAAAAAAAAEEAAAQAAAASCAAAAAAA=</HashCode>
+      <FileName>Assets\[Scripts]\BulletBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ScreenBounds">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\[Scripts]\BulletBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="BulletDirection">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\[Scripts]\BulletBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
